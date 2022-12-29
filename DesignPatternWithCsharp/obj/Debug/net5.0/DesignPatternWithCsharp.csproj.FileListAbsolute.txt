@@ -1,0 +1,16 @@
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.exe
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.deps.json
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.runtimeconfig.json
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.runtimeconfig.dev.json
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.dll
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\ref\DesignPatternWithCsharp.dll
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\bin\Debug\net5.0\DesignPatternWithCsharp.pdb
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.csproj.AssemblyReference.cache
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.AssemblyInfoInputs.cache
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.AssemblyInfo.cs
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.csproj.CoreCompileInputs.cache
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.dll
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\ref\DesignPatternWithCsharp.dll
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.pdb
+E:\Design Pattern\DesignPatternWithCsharp\DesignPatternWithCsharp\obj\Debug\net5.0\DesignPatternWithCsharp.genruntimeconfig.cache
